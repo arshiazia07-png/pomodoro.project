@@ -1,1 +1,1 @@
-# pomodoro.project
+A pomodoro timer project trial. 
